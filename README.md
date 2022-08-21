@@ -1,0 +1,2 @@
+# EXPLORING-SUICIDE-ATTACK-NETWORK-STRUCTURE-A-SOCIAL-NETWORK-ANALYSIS-APPROACH
+The use of social network analysis to analyze the suicide attack network has  proven to identify its social characteristics and structure. Hence, this application in  identifying the militant organization’s dynamic could be a tool in destabilizing the social  structure of such a network. Understanding about terrorist organizations’ structure and  its dynamic could aid towards the planning and operations for combating terrorism
